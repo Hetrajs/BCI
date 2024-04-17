@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Monument';
+    src: url(/fonts/PPMonumentExtended-Variable.woff);
+}
+
+@font-face {
+    font-family: 'Copper';
+    src: url(/fonts/CooperLtBTWXXLight.woff2);
+}
+
+@font-face {
+    font-family: 'Noctis';
+    src: url(/fonts/italian-type-noctis/Italian\ Type\ -\ Noctis\ Thin.otf);
+}
+
+@font-face {
+    font-family: 'Olivette';
+    src: url(/fonts/Olivette/OlivetteCF-Regular.woff2);
+}
+
+@font-face {
+    font-family: 'Miyagi';
+    src: url(/fonts/myriad-pro-regular_OQfea/Myriad/Myriad\ Pro\ Regular.ttf);
+}
+
+@font-face {
+    font-family: 'PPNeu';
+    src: url(/fonts/PPNeueMontreal-Regular.woff2);
+}
+
+@font-face {
+    font-family: 'PPNeu M';
+    src: url(/fonts/PPNeueMontreal-Medium.woff2);
+}
+
+@font-face {
+    font-family: 'Strretch';
+    src: url(/fonts/STRRETCH\ SANS.ttf);
+}
+
+@font-face {
+    font-family: 'italian';
+    src: url(/fonts/reifilano-font-1709703375-0/Reifilano-Light-BF65e0f694447a1.otf);
+}

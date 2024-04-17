@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-RegularItalic.eot');
+    src: local('Olivette CF Italic'), local('OlivetteCF-RegularItalic'),
+        url('OlivetteCF-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-RegularItalic.woff2') format('woff2'),
+        url('OlivetteCF-RegularItalic.woff') format('woff'),
+        url('OlivetteCF-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF Demi';
+    src: url('OlivetteCF-DemiBold.eot');
+    src: local('Olivette CF Demi Bold'), local('OlivetteCF-DemiBold'),
+        url('OlivetteCF-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-DemiBold.woff2') format('woff2'),
+        url('OlivetteCF-DemiBold.woff') format('woff'),
+        url('OlivetteCF-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-Heavy.eot');
+    src: local('Olivette CF Heavy'), local('OlivetteCF-Heavy'),
+        url('OlivetteCF-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-Heavy.woff2') format('woff2'),
+        url('OlivetteCF-Heavy.woff') format('woff'),
+        url('OlivetteCF-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-Light.eot');
+    src: local('Olivette CF Light'), local('OlivetteCF-Light'),
+        url('OlivetteCF-Light.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-Light.woff2') format('woff2'),
+        url('OlivetteCF-Light.woff') format('woff'),
+        url('OlivetteCF-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF Extra';
+    src: url('OlivetteCF-ExtraBold.eot');
+    src: local('Olivette CF Extra Bold'), local('OlivetteCF-ExtraBold'),
+        url('OlivetteCF-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-ExtraBold.woff2') format('woff2'),
+        url('OlivetteCF-ExtraBold.woff') format('woff'),
+        url('OlivetteCF-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF Demi';
+    src: url('OlivetteCF-DemiBoldItalic.eot');
+    src: local('Olivette CF Demi Bold Italic'), local('OlivetteCF-DemiBoldItalic'),
+        url('OlivetteCF-DemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-DemiBoldItalic.woff2') format('woff2'),
+        url('OlivetteCF-DemiBoldItalic.woff') format('woff'),
+        url('OlivetteCF-DemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF Extra';
+    src: url('OlivetteCF-ExtraBoldItalic.eot');
+    src: local('Olivette CF Extra Bold Italic'), local('OlivetteCF-ExtraBoldItalic'),
+        url('OlivetteCF-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-ExtraBoldItalic.woff2') format('woff2'),
+        url('OlivetteCF-ExtraBoldItalic.woff') format('woff'),
+        url('OlivetteCF-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-Bold.eot');
+    src: local('Olivette CF Bold'), local('OlivetteCF-Bold'),
+        url('OlivetteCF-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-Bold.woff2') format('woff2'),
+        url('OlivetteCF-Bold.woff') format('woff'),
+        url('OlivetteCF-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-BoldItalic.eot');
+    src: local('Olivette CF Bold Italic'), local('OlivetteCF-BoldItalic'),
+        url('OlivetteCF-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-BoldItalic.woff2') format('woff2'),
+        url('OlivetteCF-BoldItalic.woff') format('woff'),
+        url('OlivetteCF-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-LightItalic.eot');
+    src: local('Olivette CF Light Italic'), local('OlivetteCF-LightItalic'),
+        url('OlivetteCF-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-LightItalic.woff2') format('woff2'),
+        url('OlivetteCF-LightItalic.woff') format('woff'),
+        url('OlivetteCF-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-HeavyItalic.eot');
+    src: local('Olivette CF Heavy Italic'), local('OlivetteCF-HeavyItalic'),
+        url('OlivetteCF-HeavyItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-HeavyItalic.woff2') format('woff2'),
+        url('OlivetteCF-HeavyItalic.woff') format('woff'),
+        url('OlivetteCF-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olivette CF';
+    src: url('OlivetteCF-Regular.eot');
+    src: local('Olivette CF'), local('OlivetteCF-Regular'),
+        url('OlivetteCF-Regular.eot?#iefix') format('embedded-opentype'),
+        url('OlivetteCF-Regular.woff2') format('woff2'),
+        url('OlivetteCF-Regular.woff') format('woff'),
+        url('OlivetteCF-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
